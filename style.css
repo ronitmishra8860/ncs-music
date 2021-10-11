@@ -34,7 +34,7 @@ img{
 
 audio{
     border: 1px solid aqua;
-    border-radius: 30px;
+    border-radius: 50px;
 }
 form{
     margin-left: 30px;
@@ -52,6 +52,6 @@ aside {
     font-style: italic;
     background-color: lightgray;
     background-color: black;
-    margin-top: 130px;
+    margin-top: 160px;
     margin-right: 10px;
   }
