@@ -1,0 +1,57 @@
+body{
+    margin: 0rem;
+    padding: 0rem;
+}
+li{
+  list-style: none;
+  font-size: 70px;
+  color: aqua;
+}
+
+#banner{
+    border: 2px solid aqua;
+    background-color: black;
+    border-radius: 5px;
+}
+nav{
+    display: flex;
+}
+li:hover{
+    color: red;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#music{
+    border: 3px solid aqua;
+    background-color: black;
+    border-radius: 5px;
+    
+}
+
+audio{
+    border: 1px solid aqua;
+    border-radius: 20px;
+}
+form{
+    margin-left: 30px;
+}
+
+h3{
+    color: aqua;
+    margin-left: 30px;
+}
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    background-color: black;
+    margin-top: 112px;
+    margin-right: 10px;
+  }
